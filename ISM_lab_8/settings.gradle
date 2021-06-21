@@ -1,0 +1,2 @@
+rootProject.name = "ISM_lab_8"
+include ':app'
